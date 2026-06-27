@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashutosh%20Singare&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Ashutosh+Singare+👋;B.Tech+CSE+%40+OIST+Bhopal+🎓;Full+Stack+Developer+🚀;AI+%26+Data+Science+Engineer+🤖;Building+Intelligent+Digital+Experiences+✨;Open+to+Internships+%26+Full-Time+Roles+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Ashutosh+Singare+👋;B.Tech+CSE+%40+OIST+Bhopal+🎓;MERN+Stack+Developer+🚀;AI+%26+Data+Science+Engineer+🤖;Building+Intelligent+Digital+Experiences+✨;Open+to+Internships+%26+Full-Time+Roles+💼)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@ const ashutosh = {
   education:        "B.Tech CSE (Data Science) @ OIST (2023–2027)",
   currentlyAt:      "3rd Year • 7.44 CGPA",
 
-  passion:          ["Full Stack Development", "Artificial Intelligence", "Data Science"],
+  passion:          ["MERN Stack Development", "Artificial Intelligence", "Data Science"],
   currentlyBuilding: "AI-powered web applications & modern digital experiences",
   currentlyLearning: ["Three.js", "AI Agents", "System Design", "Docker", "Cloud"],
 
